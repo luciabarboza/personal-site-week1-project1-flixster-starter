@@ -42,9 +42,9 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `https://www.loom.com/share/6de14975cebf4fc6b049cdfbb674e0c7`. Make sure the video or gif actually renders and animates when viewing this README. 
+`TODO://` Add the embedded URL code to your animated app walkthrough below, https://www.loom.com/share/b535e34d6c904571bbdf8f6f46509299. Make sure the video or gif actually renders and animates when viewing this README. 
 
-`https://www.loom.com/share/6de14975cebf4fc6b049cdfbb674e0c7`
+https://www.loom.com/share/b535e34d6c904571bbdf8f6f46509299
 
 ### Reflection
 
