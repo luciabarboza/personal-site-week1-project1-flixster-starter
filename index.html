@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css" />
+
+</head>
+<body>
+   <header>
+
+    <h1 id = "title">Flixster</h1>
+    <button class="close-search-btn">Now Playing...</button>
+
+
+   </header>
+        
+       
+
+
+
+        <div class="searchBar">
+            <form class="form">
+                <div class="input-area">
+                    <label for="input"> </label>
+                    <input type="text" required id="search-input" name="input" placeholder="Pick a flick!">
+                    <input class="submit" type="submit" id="submit" value="&#128270;">
+                </div>
+            </form>
+        </div>
+        
+    </div>
+
+
+    <div class="main">
+        <div id="myModal" class="modal">
+            <!-- Modal content -->
+            <div class="modal-content">
+              
+            </div>
+        </div>
+        <div class="headerArea"></div>
+        <div id="movies-grid">
+        </div>
+        <div class="more-area">
+            <img class="logo" src="images/logo.svg">
+            <button class="load-more-movies-btn">Load More...</button>
+        </div>
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
